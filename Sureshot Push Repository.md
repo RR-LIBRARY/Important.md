@@ -20,6 +20,6 @@ git branch -M main
 # Push Step 2
 git remote remove origin
 git add .
-git remote add origin https://github.com/MrAnujBabu/Import-.git
+git remote add origin https://github.com/RR-LIBRARY/blank-canvas-7b9c2d32.git
 git push -u origin main --force
 ```
